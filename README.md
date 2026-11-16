@@ -57,9 +57,6 @@ L'analyse comprend :
 
 Les trois participants présentent une diminution de l'ENMO moyen lors de la marche sur leur téléphone en écrivant un message.
 
-![Comparaison de l'ENMO](results/figures/Graphiques_comparatifs/Comparaison_collective_ENMO_moyen.png)
-<img src="results/figures/Graphiques_comparatifs/Comparaison_collective_ENMO.png" width="700">
-
 La diminution relative observée est de :
 - Tania : −38,75 %.
 - Thomas : −7,10 %.
